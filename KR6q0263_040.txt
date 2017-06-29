@@ -281,7 +281,8 @@
 #+END_VERSE
 
 「三巴鼻。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　座主¶巴鼻休誇不二維摩一默文殊失利」
 #+END_VERSE
 
@@ -295,100 +296,117 @@
 】
 「示眾。」¶
 
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　何物苦求而不得何物不求而自來何物鐵¶槌打不破何物夜合而晝開若人不會山僧¶意琉璃寶殿生青苔」
 #+END_VERSE
 】
 「因事二首。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　左轉
 <pb:KR6q0263_C_040-0905b>¶復右轉身被摩訶衍放下搆深泉不論深與¶淺猛𦦨爐中看月輪急須着眼莫因循若未¶垂得勞生手如何出得𦦨光身」
 #+END_VERSE
 】
 「世尊陞¶
 座文殊白槌。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　文殊白槌報眾知法王法令¶合如斯會中若有仙陀客不用眉間毫相輝」
 #+END_VERSE
 】¶
 
 「汾州莫妄想。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　馬祖出得一汾州妄想¶如雷播九州㕘禪若無衲子眼多於海上覔¶浮漚」
 #+END_VERSE
 】
 「雪峯鼈鼻蛇。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　鼈鼻事難提當陽¶薦者迷舉頭錯入草嶺上鷓鴣啼」
 #+END_VERSE
 】
 「雪峯¶
 輥毬。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　象骨輥毬孰辨機一千五百幾人知¶眨起眉毛千萬里須是吾門師子兒」
 #+END_VERSE
 】
 「僧問¶
 雲門如何是吹毛劒門云祖。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　吹毛寶劒問¶雲門來者投機豈更存路逢劒客如何也甑¶人擕首向南奔」
 #+END_VERSE
 】
 「僧問雲門如何是和尚¶
 家風門云有讀書人來報。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　在處叢林有家¶風且與雲門事不同門外若有讀書者任是¶顏回亦不通」
 #+END_VERSE
 】
 「僧問雲門如何是祖師西¶
 來意門云日裏看山。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　日裏看山也是常西¶來祖意謾啇量金毛獅子稀逢有多是狐狸¶喚作狼」
 #+END_VERSE
 】
 「雲門抽顧。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　雲門抽顧笑嘻嘻¶擬議遭他顧鑑咦任是張良多計策到頭於¶此亦難施」
 #+END_VERSE
 】
 「大隨劫火洞然。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　切忌隨他¶不會他大隨此語播天涯真淨性中纔一念¶早是千差與萬差」
 #+END_VERSE
 】
 「大隨烏龜。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　如龜藏
 <pb:KR6q0263_C_040-0905c>¶六巳彰名休向人前弄眼睛一隻皮鞋都蓋¶却直至如今猶未惺」
 #+END_VERSE
 】
 「麻三斤。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　麻皮三¶斤不用秤秤頭那肯坐於蠅一念纔生筋骨¶露徒勞更覔定盤星」
 #+END_VERSE
 】
 「僧問雲門如何是¶
 沙門行門云會不得僧云為什麼會不得門¶
 云秖守會不得。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　若問沙門行沙門行最高¶若教人會得業性卒難迯」
 #+END_VERSE
 】
 「趙州石橋。」¶
 
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　趙州石橋本無星水急游魚不易停橋上秖¶觀驢馬跡誰人敢向御街行」
 #+END_VERSE
 】
 「離四句絕¶
 百非。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　離却四句絕百非作者相諳識得伊¶跳下禪床便歸去從他鷂子摶天飛」
 #+END_VERSE
 】
 「中¶
 原一寶。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　君王之寶實難酬興化形言下一¶籌兩手展開幞頭脚勑書挂在鳳皇樓」
 #+END_VERSE
 】¶
@@ -397,7 +415,8 @@
 時為首座云無生泉云無生猶是未便過杉¶
 山乃召長老長老泉回首云作麼杉云莫道¶
 是未。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　古老巡堂親掠生渡水行舟不易耕¶莫道無生猶是未纖毫不了亂縱橫」
 #+END_VERSE
 】
@@ -405,13 +424,15 @@
 問長慶有問有荅賔主歷然不問不荅時如¶
 何慶云相逢盡道休官去林下何曾見一人。」¶
 
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　人人盡道我心休問著何曾有地頭口說¶心違瞞自己業河迅速任漂流」
 #+END_VERSE
 】
 「眾手淘¶
 金。」
-【#+BEGIN_VERSE
+【
+#+BEGIN_VERSE
 「　眾手淘金得者誰纖塵窒礙豈能為洪¶波浩渺黃金遠一事無成空手歸」
 #+END_VERSE
 】
